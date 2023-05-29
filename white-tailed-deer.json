@@ -5,7 +5,7 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110xx",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
@@ -14,8 +14,8 @@
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
       "open_ads_alien":"",
       "open_ads_max":"",
-      "on_off_native_listview":"0",
-      "interval_intertitial": 5,
+      "on_off_native_listview":"1",
+      "interval_intertitial": 9,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -30,7 +30,7 @@
   ],
   "More":
   [
-    {
+        		{
 			"id": 1,
 			"title": "Wallpaper Aesthetic Cool",
 			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
@@ -47,6 +47,12 @@
 			"title": "Sakura Anime Wallpaper",
 			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
 			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		},
+	       {
+			"id": 4,
+			"title": "Navy Seal Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
 		}
 
   ],
